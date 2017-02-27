@@ -1,0 +1,27 @@
+ul{
+  color: #B8860B;
+  font-size: 130%;
+  font-family: Calibri
+    font-weight: bold;
+}
+
+
+aside {
+  background-color: #5F9EA0;
+  font-size: 70%;
+  width: 300px;
+}
+
+p {
+  color: #B8860B;
+  font-size: 110%
+}
+
+img { width: 320px;
+  float: center;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
