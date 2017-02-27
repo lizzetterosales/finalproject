@@ -1,11 +1,12 @@
-ul{
-font-family: Georgia;
-font-size: 100%;
-color: #FF7F50;
-}
-
 body {
   background-color: #FF7F50;
+
+ul {
+font-family: Georgia;
+font-size: 104%;
+color: #FF7F50;
+}
+  
 }
 
 aside{
