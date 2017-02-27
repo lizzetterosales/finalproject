@@ -4,6 +4,10 @@ font-size: 100%;
 color: #FF7F50;
 }
 
+body {
+  background-color: #FF7F50;
+}
+
 aside{
 background-color: #008B8B;
 margin: 30px;
